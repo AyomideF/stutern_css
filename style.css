@@ -1,0 +1,24 @@
+main {
+  display: flex;
+}
+
+.heading {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.basic {
+  padding: 0 auto;
+}
+
+.list {
+  background-color: blueviolet;
+}
+
+#bullet {
+  background-color: coral;
+}
+
+#numbers {
+  background-color: chartreuse;
+}
